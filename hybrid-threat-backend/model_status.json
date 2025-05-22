@@ -1,0 +1,15 @@
+{
+  "binary_model": {
+    "name": "distilbert-base-uncased",
+    "type": "binary",
+    "trained_on": "download.csv",
+    "last_updated": "2025-05-21T13:30:38.035630"
+  },
+  "multi_model": {
+    "name": "facebook/bart-large-mnli",
+    "type": "multi-class",
+    "trained_on": "y_test.csv",
+    "last_updated": "2025-05-18 07:36:26.719407"
+  },
+  "mode": "multi-only"
+}
