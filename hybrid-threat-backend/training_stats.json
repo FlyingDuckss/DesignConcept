@@ -1,0 +1,13 @@
+{
+  "dataset_used": "download.csv",
+  "retrain_time": "2025-05-21 12:54:41.820991",
+  "training_time_sec": 2156.37,
+  "binary_model": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "last_trained": "2025-05-21T13:30:38.035630"
+  },
+  "multi_model": null
+}
